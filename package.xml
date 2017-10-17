@@ -12,4 +12,9 @@
         <members>TestPermissionSet99</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>newFolder2/TestReport2</members>
+        <members>unfiled$public/TestReport</members>
+        <name>Report</name>
+    </types>
 </Package>
