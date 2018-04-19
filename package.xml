@@ -2,6 +2,30 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
+        <members>Candidate__c.Address__c</members>
+        <members>Candidate__c.Comments2__c</members>
+        <members>Candidate__c.Comments__c</members>
+        <members>Candidate__c.Currently_Employed__c</members>
+        <members>Candidate__c.Discount2__c</members>
+        <members>Candidate__c.Email__c</members>
+        <members>Candidate__c.First_Name__c</members>
+        <members>Candidate__c.MyPickList__c</members>
+        <members>Candidate__c.NewFiledChandu__c</members>
+        <members>Candidate__c.Phone_Mobile__c</members>
+        <members>Candidate__c.Total_Price2__c</members>
+        <members>Candidate__c.Years_of_Experiance__c</members>
+        <members>Candidate__c.price2__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Candidate__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Candidate__c-TestWithSpecial Charã</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>MyPermissionSet</members>
         <members>NewPermissionSet</members>
         <members>NewPermissionSet432</members>
