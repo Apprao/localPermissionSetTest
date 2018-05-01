@@ -15,6 +15,7 @@
         <members>Candidate__c.Total_Price2__c</members>
         <members>Candidate__c.Years_of_Experiance__c</members>
         <members>Candidate__c.price2__c</members>
+        <members>TestObjMay01__c.name__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -22,7 +23,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Candidate__c-TestWithSpecial Charã</members>
+        <members>Candidate__c-TestWithSpecial CharÃ£</members>
         <name>Layout</name>
     </types>
     <types>
