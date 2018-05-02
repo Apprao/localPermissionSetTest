@@ -2,6 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
+        <members>TestApexCls</members>
+        <members>Test_Account_class</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>Candidate__c.Address__c</members>
         <members>Candidate__c.Comments2__c</members>
         <members>Candidate__c.Comments__c</members>
@@ -23,7 +28,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Candidate__c-TestWithSpecial CharÃ£</members>
+        <members>Candidate__c-TestWithSpecial CharÃƒÂ£</members>
         <name>Layout</name>
     </types>
     <types>
