@@ -56,11 +56,13 @@
     </types>
     <types>
         <members>Candidate__c</members>
+        <members>May18Object02__c</members>
         <members>May18Object__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>May18DashboardFolder</members>
+        <members>May18DashboardFolder02</members>
         <members>testdashboard1</members>
         <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
@@ -83,6 +85,7 @@
     <types>
         <members>May09</members>
         <members>May09/May09Report</members>
+        <members>May18ReportFolder</members>
         <members>May19RepoFolder</members>
         <members>newFolder2/TestReport2</members>
         <members>unfiled$public/TestReport</members>
