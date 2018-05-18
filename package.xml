@@ -59,6 +59,11 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>testdashboard1</members>
+        <members>testdashboard1/testdash1</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
         <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã‚Â£</members>
         <name>Layout</name>
     </types>
@@ -74,6 +79,8 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>May09</members>
+        <members>May09/May09Report</members>
         <members>newFolder2/TestReport2</members>
         <members>unfiled$public/TestReport</members>
         <name>Report</name>
