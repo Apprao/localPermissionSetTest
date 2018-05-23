@@ -1,7 +1,7 @@
 /**
  * An apex page controller that exposes the change password functionality
  */
-public with sharing class localPermissionSetTest_ChangePasswordController {
+public with sharing class master_ChangePasswordController {
     
     public String oldPassword {get; set;}
     public String newPassword {get; set;}
@@ -12,5 +12,5 @@ public with sharing class localPermissionSetTest_ChangePasswordController {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }     
     
-   	public localPermissionSetTest_ChangePasswordController() {}
+   	public master_ChangePasswordController() {}
 }
