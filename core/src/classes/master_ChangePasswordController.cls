@@ -4,6 +4,7 @@
 public with sharing class master_ChangePasswordController {
     
     public String oldPassword {get; set;}
+    
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
     
