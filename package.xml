@@ -1,92 +1,12 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
-        <members>AccountClass</members>
-        <members>AccountProfileTriggerHandler</members>
-        <members>AccountProfileTriggerHandler_Test</members>
-        <members>ChangePasswordController</members>
-        <members>ChangePasswordControllerTest</members>
-        <members>Classstartingeithsmallletter</members>
-        <members>CommunitiesLandingController</members>
-        <members>CommunitiesLandingControllerTest</members>
-        <members>CommunitiesLoginController</members>
-        <members>CommunitiesLoginControllerTest</members>
-        <members>CommunitiesSelfRegConfirmController</members>
-        <members>CommunitiesSelfRegConfirmControllerTest</members>
-        <members>CommunitiesSelfRegController</members>
-        <members>CommunitiesSelfRegControllerTest</members>
-        <members>ForgotPasswordController</members>
-        <members>ForgotPasswordControllerTest</members>
-        <members>ForgotPasswordControllerTest1</members>
-        <members>ForgotPasswordControllerTest2</members>
-        <members>LightningForgotPasswordController</members>
-        <members>LightningForgotPasswordControllerTest</members>
-        <members>LightningLoginFormController</members>
-        <members>LightningLoginFormControllerTest</members>
-        <members>LightningSelfRegisterController</members>
-        <members>LightningSelfRegisterControllerTest</members>
-        <members>MyNewApexCls2</members>
-        <members>MyProfilePageController</members>
-        <members>MyProfilePageControllerTest</members>
-        <members>SiteLoginController</members>
-        <members>SiteLoginControllerTest</members>
-        <members>SiteRegisterController</members>
-        <members>SiteRegisterControllerTest</members>
-        <members>TestApexCls</members>
-        <members>Test_Account_class</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>Candidate__c.Address__c</members>
-        <members>Candidate__c.Comments2__c</members>
-        <members>Candidate__c.Comments__c</members>
-        <members>Candidate__c.Currently_Employed__c</members>
-        <members>Candidate__c.Discount2__c</members>
-        <members>Candidate__c.Email__c</members>
-        <members>Candidate__c.First_Name__c</members>
-        <members>Candidate__c.MyPickList__c</members>
-        <members>Candidate__c.NewFiledChandu__c</members>
-        <members>Candidate__c.Phone_Mobile__c</members>
-        <members>Candidate__c.Total_Price2__c</members>
-        <members>Candidate__c.Years_of_Experiance__c</members>
-        <members>Candidate__c.price2__c</members>
-        <members>TestObjMay01__c.name__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Candidate__c</members>
-        <members>May18Object__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>May18DashboardFolder</members>
         <members>testdashboard1</members>
-        <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
     </types>
     <types>
-        <members>Candidate__c-TestWithSpecial Char</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>MyPermissionSet</members>
-        <members>NewPermissionSet</members>
-        <members>NewPermissionSet432</members>
-        <members>NewPermissionSetSEP15</members>
-        <members>NewPermissionSetSEP15T</members>
-        <members>PermissionSet003</members>
-        <members>PermissionSet033</members>
-        <members>TestPermissionSet99</members>
-        <name>PermissionSet</name>
-    </types>
-    <types>
-        <members>May09</members>
-        <members>May09/May09Report</members>
-        <members>May19RepoFolder</members>
-        <members>newFolder2/TestReport2</members>
-        <members>unfiled$public/TestReport</members>
+        <members>May18ReportFolder</members>
         <name>Report</name>
     </types>
 </Package>
