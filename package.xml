@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>testdashboard1</members>
+        <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
     </types>
     <types>
