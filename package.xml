@@ -5,4 +5,9 @@
         <members>June18Obj__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>apparaoFld</members>
+        <members>apparaoFld/TestReport2</members>
+        <name>Report</name>
+    </types>
 </Package>
