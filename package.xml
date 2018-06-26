@@ -23,6 +23,7 @@
     </types>
     <types>
         <members>SiteSamples</members>
+        <members>Test_SR</members>
         <members>rh2__HS_Jquery</members>
         <name>StaticResource</name>
     </types>
