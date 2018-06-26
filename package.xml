@@ -22,6 +22,11 @@
         <name>SharingOwnerRule</name>
     </types>
     <types>
+        <members>SiteSamples</members>
+        <members>rh2__HS_Jquery</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
         <members>Test_First_Obj__c.Test WF Rule</members>
         <name>WorkflowRule</name>
     </types>
