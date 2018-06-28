@@ -10,4 +10,8 @@
         <members>apparaoFld/TestReport2</members>
         <name>Report</name>
     </types>
+    <types>
+        <members>SiteSamples</members>
+        <name>StaticResource</name>
+    </types>
 </Package>
