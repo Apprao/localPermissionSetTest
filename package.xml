@@ -3,16 +3,33 @@
     <version>40.0</version>
     <types>
         <members>June18Obj__c</members>
+        <members>Test_First_Obj__c</members>
         <members>TesttMergeObject__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>apparaoFld</members>
-        <members>apparaoFld/TestReport2</members>
+        <members>June08Fld</members>
+        <members>June08Fld/June08DashboardReport</members>
+        <members>testdashboard1</members>
+        <members>testdashboard1/testdash1</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>May18ReportFolder</members>
         <name>Report</name>
     </types>
     <types>
+        <members>Test_First_Obj__c.SHRule</members>
+        <name>SharingOwnerRule</name>
+    </types>
+    <types>
         <members>SiteSamples</members>
+        <members>Test_SR</members>
+        <members>rh2__HS_Jquery</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Test_First_Obj__c.Test WF Rule</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
