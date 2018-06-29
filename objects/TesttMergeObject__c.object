@@ -52,22 +52,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>fieldOne__c</fullName>
-        <externalId>false</externalId>
-        <label>fieldOne</label>
-        <length>21</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>May18Object</label>
+    <label>TesttMergeObject</label>
     <nameField>
-        <label>May18Object Name</label>
+        <label>TsetMergeObject Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>May18Objects</pluralLabel>
+    <pluralLabel>TesttMergeObjects</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
