@@ -4618,7 +4618,7 @@ To be removed after proper rollback</description>
             <role>Spain_Sales_Madrid_Retail</role>
         </sharedFrom>
     </sharingOwnerRules>
-    <sharingOwnerRules>    <sharingOwnerRules>
+    <sharingOwnerRules>  
         <fullName>Spain_Sales_Madrid_Corporate_Prospection</fullName>
         <accessLevel>Edit</accessLevel>
         <accountSettings>
