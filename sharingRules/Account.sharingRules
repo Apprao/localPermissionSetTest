@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
-    <sharingOwnerRules><sharingOwnerRules>
+   <sharingOwnerRules>
+        <fullName>accounts_Italy_Sales_Ret_Dir</fullName>
+        <accessLevel>Edit</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>Edit</caseAccessLevel>
+            <contactAccessLevel>Edit</contactAccessLevel>
+            <opportunityAccessLevel>Edit</opportunityAccessLevel>
+        </accountSettings>
+        <label>accounts Italy Sales Ret Dir</label>
+        <sharedTo>
+            <role>Italy_Assistance_Mgmt_Sales</role>
+        </sharedTo>
+        <sharedFrom>
+            <roleAndSubordinatesInternal>Italy_Sales_Ret_Dir</roleAndSubordinatesInternal>
+        </sharedFrom>
+    </sharingOwnerRules>
 </SharingRules>
