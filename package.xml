@@ -29,6 +29,7 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>Account.Test432</members>
         <members>Lead.Test</members>
         <members>Test_First_Obj__c.Test WF Rule</members>
         <name>WorkflowRule</name>
