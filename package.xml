@@ -56,6 +56,7 @@
     </types>
     <types>
         <members>Candidate__c</members>
+        <members>Lead</members>
         <members>LevelFive__c</members>
         <members>May18Object02__c</members>
         <members>May18Object__c</members>
@@ -91,5 +92,9 @@
         <members>newFolder2/TestReport2</members>
         <members>unfiled$public/TestReport</members>
         <name>Report</name>
+    </types>
+    <types>
+        <members>Lead.Test</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
