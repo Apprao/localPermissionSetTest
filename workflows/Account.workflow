@@ -8,7 +8,7 @@
             <operation>contains</operation>
             <value>AR</value>
         </criteriaItems>
-        <description>Test &amp;amp; Test</description>
+        <description>Test &amp; Test</description>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
 </Workflow>
