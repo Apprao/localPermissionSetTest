@@ -51,6 +51,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>TestFieldAlone__c</fullName>
+        <externalId>false</externalId>
+        <label>TestFieldAlone</label>
+        <length>22</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>TestAuj02Obj</label>
     <nameField>
         <label>TestAuj02Obj Name</label>
