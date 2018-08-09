@@ -51,6 +51,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>NameField01__c</fullName>
+        <externalId>false</externalId>
+        <label>NameField01</label>
+        <length>13</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Aug09Object</label>
     <nameField>
         <label>Aug09Object Name</label>
