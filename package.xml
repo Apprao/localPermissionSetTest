@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>Aug09Object__c.NameField01__c</members>
+        <members>Aug09Object__c.NameField02__c</members>
         <members>TestAuj02Obj__c.TestFieldAlone2__c</members>
         <members>TestAuj02Obj__c.TestFieldAlone__c</members>
         <name>CustomField</name>

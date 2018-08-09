@@ -43,6 +43,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
+    <description>desc has updated</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -56,6 +57,16 @@
         <externalId>false</externalId>
         <label>NameField01</label>
         <length>13</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>NameField02__c</fullName>
+        <externalId>false</externalId>
+        <label>NameField02</label>
+        <length>14</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
