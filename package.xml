@@ -10,6 +10,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Aug09Object2__c</members>
         <members>Aug09Object__c</members>
         <members>June18Obj__c</members>
         <members>TestAuj02Obj__c</members>
