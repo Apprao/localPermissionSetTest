@@ -27,6 +27,14 @@
         <name>Dashboard</name>
     </types>
     <types>
+        <members>contact_flow-1</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>contact_flow</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
         <members>May18ReportFolder</members>
         <name>Report</name>
     </types>
