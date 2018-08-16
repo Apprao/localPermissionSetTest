@@ -8,13 +8,7 @@ public class TestApexCls {
        // acc.Name1__c = 'Name1111221';
     }
     
-    public PageReference getDetails(){
-        if(ApexPages.currentPage().getParameters().get('id') != null){
-            acc=[select id,Name1__c from Test_First_Obj__c ]; }
-     //   upsert acc;
-        return null;
-        
-    }
+    
     
     
 }
