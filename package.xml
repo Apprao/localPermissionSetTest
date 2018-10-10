@@ -2,6 +2,10 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
+        <members>Sep20NewObject__c.Oct10Field__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>June18Obj__c</members>
         <members>Test_First_Obj__c</members>
         <members>TesttMergeObject__c</members>
@@ -13,6 +17,10 @@
         <members>testdashboard1</members>
         <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Sep20NewObject__c-Sep20NewObject Layout</members>
+        <name>Layout</name>
     </types>
     <types>
         <members>May18ReportFolder</members>
