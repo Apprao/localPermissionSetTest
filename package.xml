@@ -25,6 +25,7 @@
         <name>EntitlementProcess</name>
     </types>
     <types>
+        <members>ProcessBuilder01-1</members>
         <members>contact_flow-1</members>
         <name>Flow</name>
     </types>
