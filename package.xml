@@ -21,7 +21,12 @@
     </types>
     <types>
         <members>entitlementprocesstest</members>
+        <members>entitlementprocesstestone</members>
         <name>EntitlementProcess</name>
+    </types>
+    <types>
+        <members>contact_flow-1</members>
+        <name>Flow</name>
     </types>
     <types>
         <members>Sep20NewObject__c-Sep20NewObject Layout</members>
