@@ -19,6 +19,10 @@
         <name>Dashboard</name>
     </types>
     <types>
+        <members>entitlementprocesstest</members>
+        <name>EntitlementProcess</name>
+    </types>
+    <types>
         <members>Sep20NewObject__c-Sep20NewObject Layout</members>
         <name>Layout</name>
     </types>
