@@ -8,6 +8,7 @@
     <types>
         <members>Case</members>
         <members>June18Obj__c</members>
+        <members>TestEntitleIsseuObject2__c</members>
         <members>TestEntitleIsseuObject__c</members>
         <members>Test_First_Obj__c</members>
         <members>TesttMergeObject__c</members>
