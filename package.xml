@@ -22,6 +22,7 @@
     <types>
         <members>entitlementprocesstest</members>
         <members>entitlementprocesstestone</members>
+        <members>entitlementprocesstesttwo</members>
         <name>EntitlementProcess</name>
     </types>
     <types>
