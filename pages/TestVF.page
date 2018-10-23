@@ -1,0 +1,10 @@
+<apex:page controller="TestApexCls">
+    <apex:form >
+        <apex:pageBlock title="Test First Obj">
+        <apex:pageBlockSection title="Test First Obj Records">
+            <apex:inputField value="{!acc.Name1__c}"/>            
+            </apex:pageBlockSection>
+            <apex:commandButton value="save" action="{!getDetails}"/>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

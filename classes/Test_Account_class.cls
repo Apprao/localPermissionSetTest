@@ -7,7 +7,7 @@ public class Test_Account_class {
         TestApexCls apex=new TestApexCls();
         Test_First_Obj__c obj =  new Test_First_Obj__c();
         obj.Name1__c = 'Sample';
-        apex.acc = obj;
+       // apex.acc = obj;
         
        apex.getDetails();
         

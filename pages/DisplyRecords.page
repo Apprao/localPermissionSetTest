@@ -1,0 +1,19 @@
+<apex:page standardController="Test_First_Obj__c" extensions="TestApexCls">
+    <apex:form >
+        <apex:pageBlock title="Test First Obj">
+            <apex:pageBlockTable value="{!Test_First_Obj__c}" var="a">
+                
+                <apex:column >
+        <apex:commandLink rerender="getDetails" value=" {!a.Name}" action="{!getDetails}">
+         
+         <apex:param name="id" value="{!a.id}"/>
+       </apex:commandLink> 
+         </apex:column>
+                <apex:column value="{!a.Name1__c}" />
+            
+            </apex:pageBlockTable>     
+            
+<!-- <apex:commandButton value="save" action="{!getDetails}"/>  -->
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

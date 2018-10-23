@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>apparao.demo1@autorabit.com.org1</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <name>Feb19Fld</name>
+</ReportFolder>
