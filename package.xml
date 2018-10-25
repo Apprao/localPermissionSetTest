@@ -669,6 +669,7 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
+        <members>MaruthiObj__c.TestFld__c</members>
         <members>May18Object02__c.fieldtwo__c</members>
         <members>May18Object__c.fieldOne__c</members>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
