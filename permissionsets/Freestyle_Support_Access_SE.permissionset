@@ -1307,6 +1307,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>MaruthiObj__c.TestFld__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>May18Object02__c.fieldtwo__c</field>
         <readable>false</readable>
     </fieldPermissions>

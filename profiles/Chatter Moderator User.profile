@@ -1519,6 +1519,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>MaruthiObj__c.TestFld__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>May18Object02__c.fieldtwo__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -2348,18 +2353,10 @@
         <layout>Aug09Object2__c-Aug09Object2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Aug09Object2__c-Aug09Object2 Layout</layout>
-        <recordType>Aug09Object2__c.TestRecord432</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Aug09Object__c-Aug09Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Aug21Obj01__c-Aug21Obj01 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Aug21Obj01__c-Aug21Obj01 Layout</layout>
-        <recordType>Aug21Obj01__c.TestRecord433</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Aug31Obj__c-Aug31Obj Layout</layout>
@@ -2480,6 +2477,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Macro-Macro Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>MaruthiObj__c-MaruthiObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>May18Object02__c-May18Object02 Layout</layout>
