@@ -2,19 +2,44 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>40.0</version>
     <types>
+        <members>TestApexCls</members>
+        <members>Test_Account_class</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>Aug09Object2__c.Field01__c</members>
         <members>Aug09Object__c.NameField01__c</members>
         <members>Aug09Object__c.NameField02__c</members>
         <members>Aug09Object__c.NameField03__c</members>
+        <members>Candidate__c.Address__c</members>
+        <members>Candidate__c.Comments2__c</members>
+        <members>Candidate__c.Comments__c</members>
+        <members>Candidate__c.Currently_Employed__c</members>
+        <members>Candidate__c.Discount2__c</members>
+        <members>Candidate__c.Email__c</members>
+        <members>Candidate__c.First_Name__c</members>
+        <members>Candidate__c.MyPickList__c</members>
+        <members>Candidate__c.NewFiledChandu__c</members>
+        <members>Candidate__c.Phone_Mobile__c</members>
+        <members>Candidate__c.TestMergeIssueField__c</members>
+        <members>Candidate__c.Total_Price2__c</members>
+        <members>Candidate__c.Years_of_Experiance__c</members>
+        <members>Candidate__c.price2__c</members>
+        <members>MaruthiObj__c.TestFld__c</members>
+        <members>May18Object__c.fieldOne__c</members>
         <members>TestAuj02Obj__c.TestFieldAlone2__c</members>
         <members>TestAuj02Obj__c.TestFieldAlone__c</members>
+        <members>TestObjMay01__c.name__c</members>
+        <members>Test_First_Obj__c.Name1__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Aug09Object2__c</members>
         <members>Aug09Object__c</members>
+        <members>Candidate__c</members>
         <members>June18Obj__c</members>
         <members>MaruthiObj__c</members>
+        <members>May18Object__c</members>
         <members>TestAuj02Obj__c</members>
         <members>TestEntitleIsseuObject__c</members>
         <members>Test_First_Obj__c</members>
@@ -24,25 +49,41 @@
     <types>
         <members>June08Fld</members>
         <members>June08Fld/June08DashboardReport</members>
+        <members>May18DashboardFolder</members>
         <members>testdashboard1</members>
         <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
     </types>
     <types>
-        <members>contact_flow-1</members>
-        <name>Flow</name>
+        <members>Candidate__c-TestWithSpecial Charã</members>
+        <name>Layout</name>
     </types>
     <types>
-        <members>contact_flow</members>
-        <name>FlowDefinition</name>
+        <members>Candidate__c.All</members>
+        <members>Test_First_Obj__c.All</members>
+        <members>Test_First_Obj__c.MyOWnFilterRecords</members>
+        <name>ListView</name>
     </types>
     <types>
+        <members>MyPermissionSet</members>
+        <members>NewPermissionSet</members>
+        <members>NewPermissionSet432</members>
+        <members>NewPermissionSetSEP15</members>
+        <members>NewPermissionSetSEP15T</members>
+        <members>PermissionSet003</members>
+        <members>PermissionSet033</members>
+        <members>TestPermissionSet99</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>May09</members>
         <members>May18ReportFolder</members>
+        <members>May19RepoFolder</members>
         <name>Report</name>
     </types>
     <types>
-        <members>Test_First_Obj__c.SHRule</members>
-        <name>SharingOwnerRule</name>
+        <members>Account</members>
+        <name>SharingRules</name>
     </types>
     <types>
         <members>SiteSamples</members>
@@ -51,8 +92,12 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>Candidate__c.test</members>
+        <members>Test_First_Obj__c.newTestValidation</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
         <members>Account.Test432</members>
-        <members>Lead.Test</members>
         <members>Test_First_Obj__c.Test WF Rule</members>
         <name>WorkflowRule</name>
     </types>
